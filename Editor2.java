@@ -9,7 +9,8 @@ import java.awt.Color;
  */
 public class Editor2 {
 
-	public static void main (String[] args){
+	public static void main (String[] args)
+	{
 		String fileName = args[0];
 		int width = Integer.parseInt(args[1]);
 		int height = Integer.parseInt(args[2]);
